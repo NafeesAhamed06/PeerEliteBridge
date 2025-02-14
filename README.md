@@ -37,7 +37,7 @@ Install dependencies
 Start the server
 
 ```bash
-  npm run DevStart
+  npm run test
 ```
 
 
