@@ -54,7 +54,7 @@ Start the server
 You can contribute to our project by sharing your ideas and suggesting new features. Additionally, you can actively participate by adding new features to enhance the project. Your contributions help improve the overall experience and make the project better for everyone.
 ## Authors
 
-- [@NafeesAhamed06](https://www.github.com/NafeesAhamed06) - FOUNDER
+- [@NafeesAhamed06](https://www.github.com/NafeesAhamed06)
 
 
 ## License
