@@ -7,7 +7,7 @@
     "start": "node server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Nafees Ahamed",
   "license": "ISC",
   "dependencies": {
     "express": "^4.21.2",
